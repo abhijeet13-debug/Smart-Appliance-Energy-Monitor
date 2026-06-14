@@ -1,0 +1,11 @@
+device,hours,power_watts
+AC,8,1500
+Fan,12,70
+TV,5,120
+Heater,3,2000
+Refrigerator,24,150
+Washing Machine,1,500
+Microwave,0.5,1200
+LED Bulb,6,10
+Laptop,8,65
+Router,24,12
